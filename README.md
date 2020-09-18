@@ -1,5 +1,8 @@
 # rgxcp.github.io
-Portfolio website using GitHub Pages.
+GitHub Pages personal portfolio.
+
+## Status
+DEVELOPING
 
 ## How to Use
 1. Clone this repository to your desired location.
