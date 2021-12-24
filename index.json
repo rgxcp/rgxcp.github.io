@@ -1,3 +1,75 @@
 {
-  "message": "Hello, World!"
+  "note": "No, no. This is not an unfinished project. This is an actual portfolio for me. To view this on more humanize way, visit this link: https://www.figma.com/proto/2mw69JE10e0ANOslVWwV8w/Portfolio-Rommy-Gustiawan-Backend-Engineer-c.-2021",
+  "profile": {
+    "name": "Rommy Gustiawan",
+    "role": "Backend Engineer",
+    "year_created": "2021"
+  },
+  "about": [
+    "puts “Hello, World! 👋”",
+    "The name is Rommy, Rommy Gustiawan. Information System fresh graduate from Gunadarma University.",
+    "Deeply in love with anything related to tech and open source software movement.",
+    "Specialty in designing, developing, and deploying production ready RESTful API & native Android applications.",
+    "Passionate about TDD & building good coverage applications.",
+    "Hope it interests you enough! ✌️"
+  ],
+  "projects": [
+    {
+      "name": "Loka's IM",
+      "link": "https://stackshare.io/loka-padang/loka-padang",
+      "type": "RESTful API",
+      "scope": "Internship project",
+      "role": "Backend Engineer",
+      "description": "Loka’s IM (Inventory Management) is a RESTful API for helping Loka’s internal team transitioning their system from paper based into electronic-paperless-system.",
+      "stacks": ["Ruby", "Rails", "MySQL", "AWS"]
+    },
+    {
+      "name": "Geegeety",
+      "link": "https://github.com/rgxcp/geegeety",
+      "type": "RESTful API",
+      "scope": "#GenerasiGIGIH final project",
+      "role": "Backend Engineer",
+      "description": "Geegeety (Generasi GIGIH Tweety) is a Twitter-like social media for #GenerasiGIGIH students. Aim to help sharing information among students with ease.",
+      "stacks": ["Ruby", "Sinatra", "MySQL", "GCP"]
+    },
+    {
+      "name": "Kelasan",
+      "link": "https://github.com/rgxcp/kelasan-api",
+      "type": "RESTful API",
+      "scope": "Personal project",
+      "role": "Backend Developer",
+      "description": "Kelasan is a RESTful API for managing class homeworks and notes. Aim to help Indonesian students manage their school things during the online school phase.",
+      "stacks": ["PHP", "Laravel", "MySQL"]
+    },
+    {
+      "name": "Popularin",
+      "link": "https://play.google.com/store/apps/details?id=xyz.fairportstudios.popularin",
+      "type": "Android application",
+      "scope": "Undergraduate thesis/personal project",
+      "role": "Full Stack Developer",
+      "description": "Popularin is an Android-based social media application for Indonesian film lovers. Aim to spread awareness of Indonesian films through a fun way.",
+      "stacks": ["Java (v1)", "Kotlin (v2)", "PHP", "Lumen", "MySQL"]
+    }
+  ],
+  "closing_credits": {
+    "message": "Thank You",
+    "links": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/rgxcp"
+      },
+      {
+        "name": "Personal Website",
+        "link": "https://fairportstudios.xyz/"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/rommy-gustiawan/"
+      },
+      {
+        "name": "Email",
+        "link": "mailto:rgcppp@gmail.com"
+      }
+    ]
+  }
 }
