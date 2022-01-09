@@ -3,7 +3,7 @@
   "profile": {
     "name": "Rommy Gustiawan",
     "role": "Backend Engineer",
-    "year_created": "2021"
+    "year_created": "2022"
   },
   "about": [
     "puts “Hello, World! 👋”",
@@ -14,6 +14,15 @@
     "Hope it interests you enough! ✌️"
   ],
   "projects": [
+    {
+      "name": "Wikalpa",
+      "link": "https://github.com/rgxcp/wikalpa",
+      "type": "RESTful API",
+      "scope": "Personal project",
+      "role": "Backend Developer",
+      "description": "Wikalpa is a RESTful API that provides a community-driven discussion platform for Indonesian citizens. Aim to be an all-in-one social media platform for discussing various topics.",
+      "stacks": ["Ruby", "Rails", "PostgreSQL"]
+    },
     {
       "name": "Loka's IM",
       "link": "https://stackshare.io/loka-padang/loka-padang",
